@@ -1,0 +1,5 @@
+{
+  "name": "SkillForge",
+  "description": "SkillForge is a comprehensive web-based learning management system that leverages AI to create adaptive learning experiences. The platform provides role-based access for Students, Mentors, and Administrators, featuring intelligent quiz generation, progress tracking, and analytics.",
+  "requestFramePermissions": []
+}
